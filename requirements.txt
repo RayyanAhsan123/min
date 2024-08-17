@@ -1,0 +1,10 @@
+pip install streamlit==1.37.1
+pip install requests==2.32.3
+pip install pandas==2.2.2
+pip install matplotlib==3.9.2
+pip install prophet==1.1.5
+pip install scikit-learn==1.2.2
+pip install numpy==1.26.4
+pip install statsmodels==0.14.0
+pip install Cython
+pip install pystan==2.19.1.1
